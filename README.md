@@ -28,6 +28,7 @@ Order
 ![image](https://user-images.githubusercontent.com/97853861/201519976-1239cf8c-6ba5-4240-a39f-ea988907beb6.png)
 
 
+# T-codes List
 I have created below T-codes for CRUD operations on all the tables.
 •	ZSTEAM6_VENDOR - Vendors
 
@@ -39,10 +40,10 @@ I have created below T-codes for CRUD operations on all the tables.
 
 •	ZSTEAM6_ORDER - Order
 
-Database Tables
+# Database Tables
 ZS015_CUST, ZGROUP6_ORDERTRY, ZGROUP6_CATE, ZGROUP6_PRODUCTS, ZGROUP6_VEND
 
-Search Helps
+# Search Helps
 
 ![image](https://user-images.githubusercontent.com/97853861/201520050-b3699578-4d26-4a67-9350-72dc25f3ea4e.png)
 
@@ -53,7 +54,7 @@ Search Helps
 ![image](https://user-images.githubusercontent.com/97853861/201520066-2a909604-45b7-427b-90cf-ed9f477c6d5a.png)
 
 
-Number Range
+# Number Range
 
 ![image](https://user-images.githubusercontent.com/97853861/201520073-c0cf55dc-90ab-465d-b5be-4a3e263c21e8.png)
 
